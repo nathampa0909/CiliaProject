@@ -1,5 +1,5 @@
-# Projeto Cilia
+# Cilia Project
 
-Projeto desenvolvido para avaliação em Processo Seletivo.
+The objective of this project it's a phase of a selective process.
 
-Está sendo utilizado JQuery, JavaScript, Bootstrap 3.3.7, HTML e CSS.
+I'm using: JQuery, JavaScript, Bootstrap 3.3.7, HTML, CSS and love <3.
